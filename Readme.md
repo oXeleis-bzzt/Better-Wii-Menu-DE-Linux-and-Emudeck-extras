@@ -27,9 +27,9 @@ Switching between games has never been easier!
 If you installed dolphin emulator with emudeck before you still have to uninstall it first but after installing with this method the emulator will regain all of emudeck's configurations.
 
 If you want to launch directly to the home menu from a Frontend such as ES-DE with emudeck then follow steps 1-3 and then:
-1. Download the file `Wii Menu.sh` from the release page
+1. Download the file `Wii-Menu.sh` from the release page
 2. Drag it to your emulation folder, then roms, then desktop, and place the .sh file there
 3. A new console section will appear when you go back to game mode and to emulation station called desktop, it will recognize the file we added and will launch the emulator directly to the home menu (this desktop folder is actually useful for launching many other actual desktop stuff you have without leaving the emulation station or game mode)
 
 
-If the `Wii Menu.sh` file doesn't work for you, you might need to open it with a text editor and change the numeric code inside to the correct one for your region.
+If the `Wii-Menu.sh` file doesn't work for you, you might need to open it with a text editor and change the numeric code inside to the correct one for your region.
