@@ -32,6 +32,4 @@ If you want to launch directly to the home menu from a Frontend such as ES-DE wi
 3. A new console section will appear when you go back to game mode and to emulation station called desktop, it will recognize the file we added and will launch the emulator directly to the home menu (this desktop folder is actually useful for launching many other actual desktop stuff you have without leaving the emulation station or game mode)
 
 
-If the `Wii Menu.sh` file doesn't work for you, you might need to open it with a text editor and change the numeric code inside to the correct one for your region
-
-
+If the `Wii Menu.sh` file doesn't work for you, you might need to open it with a text editor and change the numeric code inside to the correct one for your region.
